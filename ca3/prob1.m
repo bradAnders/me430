@@ -1,4 +1,4 @@
-% File:             ME 430, Computer Assignment 2
+% File:             ME 430, Computer Assignment 2, Problem 1
 % Author:           Bradley Anderson
 % Collaborators:    None
 % Date Created:     Mon, Nov 27, 2017
